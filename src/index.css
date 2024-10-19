@@ -1,0 +1,20 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: beige;
+}
+.container {
+  padding: 0px 10%;
+}
+
+.main {
+  padding: 60px 0px;
+}
